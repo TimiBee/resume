@@ -4,7 +4,7 @@ created by Timi b
 looking for an open source
 
 
-![Timi-Busayo](timi-reume.png)
+![Timi-Busayo](Timi-reume.png)
 
 ## Author
 
