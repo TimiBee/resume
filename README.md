@@ -4,7 +4,7 @@ created by Timi b
 looking for an open source
 
 
-![Timi-Busayo](Timi-reume.png)
+![Timi-Busayo](Timi-Reume.png)
 
 ## Author
 
@@ -28,8 +28,6 @@ The index.html and readme files are in the root folder, alongside the screenshot
 
 The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
 
-
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
 
 
 If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/Timi_Bee).
